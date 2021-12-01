@@ -9,6 +9,10 @@
 
 扫码立即使用小程序
 
+
+![mmexport1638338890072.jpg](https://i.loli.net/2021/12/01/KmlyrNDfkFnjACd.jpg)
+
+
 ## 部署
 
 部署需要的环境：php7.4，MariaDB，redis
